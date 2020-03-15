@@ -1,4 +1,4 @@
-***this repo was made in collaboration with @atharv2
+<b>This repo was made in collaboration with @atharv2</b>
 
 This program uses GeoPandas and other libraries to plot where there are COVID-19 cases in the world. 
 **THIS PROGRAM CANNOT GARUNTEE ACCURATE OR UP-TO-DATE INFORMATION. THE CONTRIBUTORS ARE NOT RESPONSIBLE FOR ANY SITUATIONS THAT MAY ARISE BECAUSE OF THIS PROGRAM. USE AT YOUR OWN RISK.
